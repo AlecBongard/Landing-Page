@@ -158,9 +158,9 @@ body{
     justify-content: space-around;
     align-items: center;
     border-radius: 8px;
-    width: 1024px;
-    height: 150px;
+    padding: 45px 128px;
     margin: 100px;
+    gap: 128px;
 }
 
 .call p{
