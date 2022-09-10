@@ -1,4 +1,7 @@
+
+
 body{
+    font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -23,13 +26,15 @@ body{
 
 .hlogo{
     color: #F9FAF8;
-    font-weight: bolder;
+    font-weight: 600;
     font-size: 24px;
 }
 
 .header a{
     text-decoration: none;
-    color: white;
+    font-size: 18px;
+    color: #E5E7EB;
+    font-weight: 350;
 }
 
 .header ul{
@@ -121,7 +126,7 @@ body{
 .quote_wrap{
     background-color: #E5E7EB;
     align-self: stretch;
-    padding: 100px 300px;
+    padding: 80px 325px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -131,6 +136,7 @@ body{
     font-size: 36px;
     color: #1f2937;
     font-style: italic;
+    font-weight: 300;
 }
 
 .by{
